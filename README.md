@@ -1,1 +1,1 @@
-# guided-project
+# guided-projects
